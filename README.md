@@ -1,5 +1,5 @@
 # bai tap ve nha
-# bài về tran
+# 
 <!DOCTYPE html>
 <html>
 <title>My Profile</title>
@@ -127,7 +127,7 @@ body,h1,h2,h3,h4,h5 {font-feature-settings:  "Raleway", sans-serif}
   <h3><b>Những Chuyến Đi Dài</b></h3>
   </header>
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="phinhho.jpg" alt="Autumw" style="width:100%">
+    <img src="phinhho.jpg" alt="Phinhho" style="width:100%">
     <div class="w3-container">
       <h3><b>MHX - 2013</b></h3>
       <h5>Phinh Ho, <span class="w3-opacity">July , 2013</span></h5>
@@ -139,7 +139,7 @@ body,h1,h2,h3,h4,h5 {font-feature-settings:  "Raleway", sans-serif}
   </div>
   <hr>
   <div class="w3-card-4 w3-margin w3-white">
-  <img src="ngay1.jpg" alt="Norway" style="width:100%">
+  <img src="ngay1.jpg" alt="Phuctuy" style="width:100%">
     <div class="w3-container">
       <h3><b>MHX - 2014</b></h3>
       <h5>Phuc Tuy, <span class="w3-opacity">July, 2014</span></h5>
@@ -155,7 +155,7 @@ body,h1,h2,h3,h4,h5 {font-feature-settings:  "Raleway", sans-serif}
   <h3><b>My Profile</b></h3>
 </header>
   <div class="w3-card-2 w3-margin w3-margin-top">
-  <img src="tu0.jpg" class="img-thumbnail" alt="Cinque Terre" width="250" height="200">
+  <img src="tu0.jpg" class="img-thumbnail" alt="tu" width="250" height="200">
     <div class="w3-container w3-white">
       <p>My Name : Trần Đức Tú</p>
       <p>Date of birth : 29 - 08 - 1993</p>
